@@ -1,8 +1,8 @@
 # Cellular Automata
 
 Cellular automata experiments
-
-## [Elementary Cellular Automata](notebooks/elementary-cellular-automata.ipynb)
+- [Elementary Cellular Automata](notebooks/elementary-cellular-automata.ipynb) (images shown below)
+- [Probabilistic Elementary Cellular Automata](notebooks/elementary-cellular-automata-probabilistic)
 
 <img src="images/30.png"/>
 <img src="images/54.png"/>
