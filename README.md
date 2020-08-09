@@ -2,7 +2,8 @@
 
 Cellular automata experiments
 - [Elementary Cellular Automata](notebooks/elementary-cellular-automata.ipynb) (images shown below)
-- [Probabilistic Elementary Cellular Automata](notebooks/elementary-cellular-automata-probabilistic)
+- [Elementary Cellular Automata, with random flipping of cell values](notebooks/elementary-cellular-automata-probabilistic)
+- [Elementary Cellular Automata, based on four neighbouring cells](notebooks/elementary-cellular-automata-probabilistic)
 
 <img src="images/30.png"/>
 <img src="images/54.png"/>
